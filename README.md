@@ -8,5 +8,3 @@ It intercept your browser traffic and captures your intraction with the website 
 The project is under development so I would appreciate any contribution.
 
 Feel free to email me for any questions and contribution.
-
-Dev3Looper@gmail.com
